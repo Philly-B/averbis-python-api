@@ -33,6 +33,7 @@ Averbis Python API
 
 The **Averbis Python API** allows convenient access to the REST API of Averbis products. This includes in particular the ability to interact with the text mining pipelines offered by these products, e.g. to use these in data science environments such as Jupyter notebooks or for integration of the Averbis products in other enterprise systems.
 
+
 Supported products are:
 
 - `Health Discovery <https://averbis.com/health-discovery/>`_
